@@ -4,7 +4,7 @@
       class="absolute top-6 left-6 z-20 text-pink-600 font-semibold hover:underline"
       @click="goBack"
     >
-      &larr; Back
+      &larr; Back to gifts
     </button>
 
     <div class="absolute inset-0 pointer-events-none">
